@@ -1,0 +1,48 @@
+<html>
+<head>
+	<tittle>Ragistration</tittle>
+</head>
+<body>
+	<form>
+		<table border ="6" border color ="blue" bgcolor="gray">
+			<tr><td>
+				<center>
+					<h2>INDIAN INSTITUTE OF FARIDIPUR</h2>
+					<h3>APPLICATION FOR ADMISSION TO FIRST SEMESTER</h3>
+				</center>
+				NAME OF THE STUDENT<br>
+				<input name ="name"
+				type="text" size ="25"
+				max length ="28"><br>
+				ADDRESS<BR>
+				<input name ="address"
+				type="text" size="50" maxlength="30"><br>
+				GENDER<BR>
+     			<input name ="gender"type="radio" value =f>FEMALE<BR>
+				<input name ="gender"type="radio" value =M>MALE<BR>
+				EMPLOYED<BR>
+				<input name="EMPLOYED"type="radio"value=Y>YES<br>
+				<input name="EMPLOYED"type="radio"value=N>NO<br>
+				BANK NAME<BR>
+				<select name ="bank" size="1">
+					<option>STATE BANK OF INDIA
+						<option>PANJAB NATIONAL BANK
+							<option>ALLAHABAD BANK
+								<option>BANK OF BARODA
+									<option>BARAODA UP GRAMIN BANK
+										<option>AXIS BANK
+										</select><br>
+										REMARK<BR>
+										<text area name ="remark" rows="3" cols="45">
+											THIS STUDENT IS JOIN FOR B.TECH 
+											<text area ><br>
+												<input type="submit" value="REGISTER NOW">
+												<input type ="reset" value ="cancel data">
+											
+</td>
+</tr>
+</table>
+</form>
+</body>
+</html>
+
