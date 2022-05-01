@@ -1,12 +1,14 @@
+<!DOCTYPE html>
 <html>
 <head>
 	<tittle>Ragistration</tittle>
 </head>
-<body>
+<body bgcolor="yellow">
+<iframe width="400" height="444" align="right" src="https://www.youtube.com/embed/AkLnj5pJtDI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	<form>
-		<table border ="4" border color ="orange" bgcolor="powderblue"
+		<table border ="20" border color ="red" bgcolor="#CCCCFF"
 		hight="75%"
-		width="100%">
+		width="60%">
 			<tr><td>
 				<center>
 					<h2><center><font face="Cooper" size="36" color="darkblue"> INDIAN INSTITUTE OF FARIDIPUR</h2></font></center>
@@ -45,6 +47,7 @@
 </tr>
 </table>
 </form>
+
 </body>
 </html>
 
