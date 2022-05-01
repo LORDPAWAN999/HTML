@@ -4,16 +4,18 @@
 </head>
 <body>
 	<form>
-		<table border ="6" border color ="blue" bgcolor="gray">
+		<table border ="4" border color ="orange" bgcolor="powderblue"
+		hight="75%"
+		width="100%">
 			<tr><td>
 				<center>
-					<h2>INDIAN INSTITUTE OF FARIDIPUR</h2>
-					<h3>APPLICATION FOR ADMISSION TO FIRST SEMESTER</h3>
+					<h2><center><font face="Cooper" size="36" color="darkblue"> INDIAN INSTITUTE OF FARIDIPUR</h2></font></center>
+					<h3><font face="Cooper"color="black">APPLICATION FOR ADMISSION TO FIRST SEMESTER</h3></font>
 				</center>
-				NAME OF THE STUDENT<br>
-				<input name ="name"
+				<i><font face="Algerian">NAME OF THE STUDENT<br>
+				<b><input name ="name"
 				type="text" size ="25"
-				max length ="28"><br>
+				max length ="28"></b><br>
 				ADDRESS<BR>
 				<input name ="address"
 				type="text" size="50" maxlength="30"><br>
@@ -38,7 +40,7 @@
 											<text area ><br>
 												<input type="submit" value="REGISTER NOW">
 												<input type ="reset" value ="cancel data">
-											
+</font>											
 </td>
 </tr>
 </table>
