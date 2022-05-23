@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> arithmetic operator</title>
+	<style>
+	h1{text-align:center;}
+	pre{text-align: center;}
+	</style>
+	<U><font face="ALGERIAN" color="BLUE"><h1>ARITHMETIC OPERATION IN JS</h1></font></U>
+<font size="30" color="black">
+	<pre><b><font color="red">			OPERATORS			SYMBOL</font>
+			addition			+
+			substraction			-
+			multiplication			*
+			exponentiation			**
+			division			/
+			modulus				%
+			increment			++
+			decrement			--
+</pre></b>
+</font>
+</head>
+<body>
+	<U><font face="ALGERIAN"  color="BLUE"><h1>LOGICAL OPERATOR</h1></font></U>
+	<font size="30" color="black">
+	<pre><b><font color="red">			OPERATORS		SYMBOL</font>
+			  AND                 	&&
+			  OR                  	||
+			  NOT                 	!
+									</b></pre></font>
+<U><font face="ALGERIAN" color="BLUE"><h1>ASSIGNMENT OPERATION IN JS</h1></font></U>
+<font size="30" color="black">
+<pre>
+<b><font size="30" color="red">Operator		Example		Same As</font>
+=			x = y		x = y
++=			x += y		x = x + y
+-=			x -= y		x = x - y
+*=			x *= y		x = x * y
+/=			x /= y		x = x / y
+%=			x %= y		x = x % y
+<<=			x <<= y		x = x << y
+>>=			x >>= y		x = x >> y
+>>>=	   		x >>>= y        x = x >>> y
+&=			x &= y		x = x & y
+^=			x ^= y		x = x ^ y
+|=			x |= y		x = x | y
+	**=		  	x **= y	     x = x ** y									
+</b>
+</body>
+
+</html>
